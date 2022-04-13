@@ -1,0 +1,7 @@
+/server/MWTCore/bin
+/server/MWTCore/obj
+/server/MWTDbContext/bin
+/server/MWTDbContext/obj
+/server/MWTWebApi/bin
+/server/MWTWebApi/obj
+/server/MWTWebApi/*.user

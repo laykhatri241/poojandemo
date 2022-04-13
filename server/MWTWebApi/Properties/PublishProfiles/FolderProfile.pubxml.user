@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\MWTPublish</_PublishTargetUrl>
+    <History>True|2022-04-13T05:54:22.3461734Z;True|2022-04-13T11:11:18.7294461+05:30;</History>
+  </PropertyGroup>
+</Project>
